@@ -1,1 +1,1 @@
-# Le-mod-le-de-r-gression-logistique
+# Le modele de regression logistique
